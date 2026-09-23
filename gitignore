@@ -1,0 +1,21 @@
+# Credentials & secrets
+*.json
+!*.sample.json
+drive-bridge-financial-data-*.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix.bak
